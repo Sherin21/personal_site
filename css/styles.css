@@ -1,3 +1,8 @@
+nav {
+  background-color: #E8F6F6;
+  color:  #66BFBF
+}
+
 body{
     margin: 0;
     text-align: center;
@@ -33,14 +38,6 @@ p {
 }
 a {
     color: #11999E;
-}
-
-.nav-heading {
-  padding-right: 10%;
-}
-
-.nav-content {
-  padding-right: 15%;
 }
 
 .career {
