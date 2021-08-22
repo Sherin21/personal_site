@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+}
+hr {
+    border-style: dotted none none none;
+    border-color: #EAF6F6;
+    border-width: thick;
+    width: 3%;
+    margin: 50px auto 50px auto;
+}
+h1 {
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'Pacifico', cursive;
+    color: #66BFBF;
+    font-size: 80px;
+}
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #66BFBF;
+    font-size: 50px;
+}
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #11999E;
+}
+p {
+    line-height: 2;
+    color: #40514E;
+}
+a {
+    color: #11999E;
+}
+
+.nav-heading {
+  padding-right: 10%;
+}
+
+.nav-content {
+  padding-right: 15%;
+}
+
+.career {
+    font-weight: normal;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+.profile-photo {
+    margin: 40px;
+}
+
+.lightBackground {
+    position: relative;
+    background-color: #E8F6F6;
+    margin: 0;
+    padding-top: 40px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 18%;
+    left: 70%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 40%;
+    left: 20%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.comp-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.type-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-btn {
+  margin: 2% 5% 5%;
+}
+
+.contact-me {
+    width: 45%;
+    line-height: 2;
+    margin: 0 auto 0 auto;
+}
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.copyright {
+    color: #EAF6F6;
+    font-weight: bold;
+    margin: 30px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 40px;
+}
